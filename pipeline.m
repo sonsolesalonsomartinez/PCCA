@@ -24,8 +24,6 @@
 %    different timescales.
 % 4. Tests how much of the temporal covariation in FC can be predicted by
 %    changes in the raw BOLD signal
-% 5. Tests the reproducibility of our results with respect to different
-%    datasets and data configurations.
 %
 % This pipeline must be adapted to your particular configuration of files.
 %
@@ -98,8 +96,5 @@ open('analysis_figure_4.m');
 
 %% 4. Tests how much of the temporal covariation in FC can be predicted by changes in the raw BOLD signal
 open('analysis_figure_5.m');
-
-%% 5. Tests the reproducibility
-open('analysis_figure_6.m');
 
 
