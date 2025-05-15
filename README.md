@@ -1,4 +1,4 @@
-# PCCA
-Matlab code to run the analysis as described in "Exploring the Potential of fMRI Functional Connectivity as an Indicator of Dynamic Neural Communication", S Alonso Martinez, et al. 2023
+# PCA + HMM
+Matlab code to run the analysis as described in "Can fMRI Functional Connectivity Index Dynamic Neural Communication and Cognition?", S Alonso Martinez, et al. 2025
 Dependencies: HMM-MAR toolbox
 
